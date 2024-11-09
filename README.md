@@ -290,7 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by Team HelpingAI**
 
-⭐️ Star us on GitHub — it motivates us a lot!⭐️ Star us on GitHub — it motivates us a lot!⭐️ Star us on GitHub — it motivates us a lot!⭐️ Star us on GitHub — it motivates us a lot!
+⭐️ Star us on GitHub — it motivates us a lot!
 
 [Report Bug](https://github.com/OE-LUCIFER/Cerebra.aiAPI/issues)
 
